@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/interamericana/rover_workspace/devel/lib;/opt/ros/indigo/lib")
